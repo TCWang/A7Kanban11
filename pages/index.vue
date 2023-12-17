@@ -1,15 +1,20 @@
 <template>
-  <div>
-    <h1 class="mt-1">Test 資訊匯總</h1>
+  <div class="container">
+    <div></div>
   </div>
 </template>
 
 <script>
-export default {
-  setup() {
-    return {};
-  },
-};
+export default {};
 </script>
 
-<style scoped></style>
+<style>
+.container {
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+</style>
