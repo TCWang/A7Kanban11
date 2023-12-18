@@ -3,7 +3,8 @@
     <div class="flex items-center justify-between">
       <!-- Header logo -->
       <div>
-        <Tailwind />
+        <!-- <Tailwind /> -->
+        <Logo />
       </div>
 
       <!-- Mobile toggle -->
@@ -25,19 +26,21 @@
 
       <!-- Navbar -->
       <div class="hidden md:block">
-        <ul class="flex space-x-8 text-sm font-sans">
+        <ul style="list-style: none" class="flex space-x-8 text-sm font-sans">
           <li>
-            <a href="#" class="active border-b-2 border-blue-500 pb-1">Home</a>
+            <a href="#" class="active border-b-2 border-blue-500 pb-1"
+              >人工智慧</a
+            >
           </li>
-          <li><a href="#" class="">Services</a></li>
-          <li><a href="#" class="">Features</a></li>
-          <li><a href="#" class="">FAQ</a></li>
-          <li><a href="#" class="">Contact</a></li>
+          <li><a href="#" class="">新聞雜誌</a></li>
+          <li><a href="#" class="">影音媒體</a></li>
+          <li><a href="#" class="">生活查詢</a></li>
+          <li><a href="#" class="">手機軟件</a></li>
           <li>
             <a
               href="#"
               class="cta bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white font-semibold"
-              >Sign Up</a
+              >社區網站</a
             >
           </li>
         </ul>
@@ -65,7 +68,7 @@
         </div>
       </transition>
 
-      <!-- Drawer Menu -->
+      <!-- Drawer Menu  手機模式-->
       <aside
         class="p-5 transform top-0 left-0 w-64 bg-white fixed h-full overflow-auto ease-in-out transition-all duration-300 z-30"
         :class="isOpen ? 'translate-x-0' : '-translate-x-full'"
@@ -93,33 +96,33 @@
           @click="isOpen = false"
           class="flex w-full items-center p-4 border-b"
         >
-          <Tailwind />
+          <Logo />
         </span>
 
-        <ul class="divide-y font-sans">
+        <ul style="list-style: none" class="divide-y font-sans">
           <li>
             <a href="#" @click="isOpen = false" class="my-4 inline-block"
-              >Home</a
+              >人工智慧</a
             >
           </li>
           <li>
             <a href="#" @click="isOpen = false" class="my-4 inline-block"
-              >Services</a
+              >新聞雜誌</a
             >
           </li>
           <li>
             <a href="#" @click="isOpen = false" class="my-4 inline-block"
-              >Features</a
+              >影音媒體</a
             >
           </li>
           <li>
             <a href="#" @click="isOpen = false" class="my-4 inline-block"
-              >FAQ</a
+              >生活查詢</a
             >
           </li>
           <li>
             <a href="#" @click="isOpen = false" class="my-4 inline-block"
-              >Contact</a
+              >手機軟件</a
             >
           </li>
           <li>
@@ -127,15 +130,15 @@
               href="#"
               @click="isOpen = false"
               class="my-8 w-full text-center font-semibold cta inline-block bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white"
-              >Sign Up</a
+              >社區網站</a
             >
           </li>
         </ul>
 
         <div class="follow">
-          <p class="italic font-sans text-sm">follow us:</p>
+          <p class="italic font-sans text-sm">社群連接:</p>
           <div class="social flex space-x-5 mt-4">
-            <a href="#">
+            <!-- <a href="#">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -151,7 +154,7 @@
                   d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"
                 ></path>
               </svg>
-            </a>
+            </a> -->
             <a href="#">
               <svg
                 aria-hidden="true"
@@ -186,7 +189,7 @@
                 ></path>
               </svg>
             </a>
-            <a href="#">
+            <!-- <a href="#">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -202,7 +205,7 @@
                   d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"
                 ></path>
               </svg>
-            </a>
+            </a> -->
           </div>
         </div>
       </aside>
