@@ -24,26 +24,26 @@
         </button>
       </div>
 
-      <!-- Navbar -->
+      <!-- Navbar Desktop -->
       <div class="hidden md:block">
-        <ul style="list-style: none" class="flex space-x-8 text-sm font-sans">
+        <nl class="flex space-x-8 text-sm font-sans">
           <li>
-            <a href="#" class="active border-b-2 border-blue-500 pb-1"
+            <a href="/ai" class="active border-b-2 border-blue-500 pb-1"
               >人工智慧</a
             >
           </li>
-          <li><a href="#" class="">新聞雜誌</a></li>
-          <li><a href="#" class="">影音媒體</a></li>
-          <li><a href="#" class="">生活查詢</a></li>
-          <li><a href="#" class="">手機軟件</a></li>
+          <li><a href="/news" class="">新聞雜誌</a></li>
+          <li><a href="/media" class="">影音媒體</a></li>
+          <li><a href="/inquiry" class="">生活查詢</a></li>
+          <li><a href="/mobile" class="">手機軟件</a></li>
           <li>
             <a
-              href="#"
-              class="cta bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white font-semibold"
+              href="/websites"
+              class="cta bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white"
               >社區網站</a
             >
           </li>
-        </ul>
+        </nl>
       </div>
 
       <!-- Dark Background Transition -->
@@ -68,7 +68,7 @@
         </div>
       </transition>
 
-      <!-- Drawer Menu  手機模式-->
+      <!-- Drawer Menu  Mobile-->
       <aside
         class="p-5 transform top-0 left-0 w-64 bg-white fixed h-full overflow-auto ease-in-out transition-all duration-300 z-30"
         :class="isOpen ? 'translate-x-0' : '-translate-x-full'"
@@ -99,41 +99,41 @@
           <Logo />
         </span>
 
-        <ul style="list-style: none" class="divide-y font-sans">
+        <nl class="divide-y font-sans">
           <li>
-            <a href="#" @click="isOpen = false" class="my-4 inline-block"
+            <a href="/ai" @click="isOpen = false" class="my-4 inline-block"
               >人工智慧</a
             >
           </li>
           <li>
-            <a href="#" @click="isOpen = false" class="my-4 inline-block"
+            <a href="/news" @click="isOpen = false" class="my-4 inline-block"
               >新聞雜誌</a
             >
           </li>
           <li>
-            <a href="#" @click="isOpen = false" class="my-4 inline-block"
+            <a href="/media" @click="isOpen = false" class="my-4 inline-block"
               >影音媒體</a
             >
           </li>
           <li>
-            <a href="#" @click="isOpen = false" class="my-4 inline-block"
+            <a href="/inquiry" @click="isOpen = false" class="my-4 inline-block"
               >生活查詢</a
             >
           </li>
           <li>
-            <a href="#" @click="isOpen = false" class="my-4 inline-block"
+            <a href="/mobile" @click="isOpen = false" class="my-4 inline-block"
               >手機軟件</a
             >
           </li>
           <li>
             <a
-              href="#"
+              href="/websites"
               @click="isOpen = false"
               class="my-8 w-full text-center font-semibold cta inline-block bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white"
               >社區網站</a
             >
           </li>
-        </ul>
+        </nl>
 
         <div class="follow">
           <p class="italic font-sans text-sm">社群連接:</p>
@@ -155,7 +155,7 @@
                 ></path>
               </svg>
             </a> -->
-            <a href="#">
+            <a href="https://www.facebook.com/groups/a7xinlinkou">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -172,7 +172,7 @@
                 ></path>
               </svg>
             </a>
-            <a href="#">
+            <a href="https://www.instagram.com/a7replanning/">
               <svg
                 aria-hidden="true"
                 focusable="false"

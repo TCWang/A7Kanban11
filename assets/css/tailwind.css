@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-boty {
+body {
   @apply bg-gray-50;
 }
 
@@ -17,6 +17,9 @@ boty {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
+  }
+  .container {
+    @apply pt-20 m-2 md:mx-auto;
   }
   a {
     @apply text-blue-600 hover:text-yellow-600;
@@ -35,10 +38,10 @@ boty {
   }
   h1,
   h2 {
-    @apply bg-indigo-100 p-1 mb-2 font-bold;
+    @apply bg-indigo-100 font-bold;
   }
   h3 {
-    @apply mb-2 font-bold;
+    @apply font-bold;
   }
   p {
     @apply mb-2;

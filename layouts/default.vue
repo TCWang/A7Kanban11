@@ -1,8 +1,8 @@
 <template>
   <div>
     <NavBar />
-    <Nuxt />
+    <slot />
   </div>
 </template>
 
-<style></style>
+<style scoped></style>
