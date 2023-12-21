@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3 class="font-bold text-blue-800">A7社區網站-資訊匯總</h3>
+    <h3 class="font-bold text-white">A7社區網站-資訊匯總</h3>
   </div>
 </template>
 

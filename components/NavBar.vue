@@ -1,6 +1,6 @@
 <template>
-  <nav class="fixed w-full p-6 bg-transparent">
-    <div class="flex items-center justify-between">
+  <nav class="w-full p-6">
+    <div class="flex items-center justify-between bg-indigo-600 px-1 py-2">
       <!-- Header logo -->
       <div>
         <!-- <Tailwind /> -->
@@ -17,7 +17,7 @@
             stroke-linejoin="round"
             stroke-width="2"
             viewBox="0 0 24 24"
-            stroke="currentColor"
+            stroke="white"
           >
             <path d="M4 6h16M4 12h16M4 18h16"></path>
           </svg>
@@ -26,16 +26,18 @@
 
       <!-- Navbar Desktop -->
       <div class="hidden md:block">
-        <nl class="flex space-x-8 text-sm font-sans">
+        <ul style="list-style: none" class="flex space-x-8">
           <li>
-            <a href="/ai" class="active border-b-2 border-blue-500 pb-1"
+            <a
+              href="/ai"
+              class="active border-b-2 border-blue-500 pb-1 text-white"
               >人工智慧</a
             >
           </li>
-          <li><a href="/news" class="">新聞雜誌</a></li>
-          <li><a href="/media" class="">影音媒體</a></li>
-          <li><a href="/inquiry" class="">生活查詢</a></li>
-          <li><a href="/mobile" class="">手機軟件</a></li>
+          <li><a href="/news" class="text-white">新聞雜誌</a></li>
+          <li><a href="/media" class="text-white">影音媒體</a></li>
+          <li><a href="/inquiry" class="text-white">生活查詢</a></li>
+          <li><a href="/mobile" class="text-white">手機軟件</a></li>
           <li>
             <a
               href="/websites"
@@ -43,7 +45,7 @@
               >社區網站</a
             >
           </li>
-        </nl>
+        </ul>
       </div>
 
       <!-- Dark Background Transition -->
@@ -85,7 +87,7 @@
               stroke-linejoin="round"
               stroke-width="2"
               viewBox="0 0 24 24"
-              stroke="currentColor"
+              stroke="currentcolor"
             >
               <path d="M6 18L18 6M6 6l12 12"></path>
             </svg>
@@ -99,29 +101,29 @@
           <Logo />
         </span>
 
-        <nl class="divide-y font-sans">
+        <ul style="list-style: none" class="divide-y text-base">
           <li>
-            <a href="/ai" @click="isOpen = false" class="my-4 inline-block"
+            <a href="/ai" @click="isOpen = false" class="my-2 inline-block"
               >人工智慧</a
             >
           </li>
           <li>
-            <a href="/news" @click="isOpen = false" class="my-4 inline-block"
+            <a href="/news" @click="isOpen = false" class="my-2 inline-block"
               >新聞雜誌</a
             >
           </li>
           <li>
-            <a href="/media" @click="isOpen = false" class="my-4 inline-block"
+            <a href="/media" @click="isOpen = false" class="my-2 inline-block"
               >影音媒體</a
             >
           </li>
           <li>
-            <a href="/inquiry" @click="isOpen = false" class="my-4 inline-block"
+            <a href="/inquiry" @click="isOpen = false" class="my-2 inline-block"
               >生活查詢</a
             >
           </li>
           <li>
-            <a href="/mobile" @click="isOpen = false" class="my-4 inline-block"
+            <a href="/mobile" @click="isOpen = false" class="my-2 inline-block"
               >手機軟件</a
             >
           </li>
@@ -129,14 +131,14 @@
             <a
               href="/websites"
               @click="isOpen = false"
-              class="my-8 w-full text-center font-semibold cta inline-block bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white"
+              class="my-4 w-full text-center cta inline-block bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white"
               >社區網站</a
             >
           </li>
-        </nl>
+        </ul>
 
         <div class="follow">
-          <p class="italic font-sans text-sm">社群連接:</p>
+          <p class="italic text-sm">社群連接:</p>
           <div class="social flex space-x-5 mt-4">
             <!-- <a href="#">
               <svg
@@ -161,7 +163,7 @@
                 focusable="false"
                 data-prefix="fab"
                 data-icon="facebook-f"
-                class="h-5 w-5 fill-current text-gray-600"
+                class="h-8 w-8 fill-current text-gray-600"
                 role="img"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 320 512"
@@ -178,7 +180,7 @@
                 focusable="false"
                 data-prefix="fab"
                 data-icon="instagram"
-                class="h-5 w-5 fill-current text-gray-600"
+                class="h-8 w-8 fill-current text-gray-600"
                 role="img"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 448 512"

@@ -19,7 +19,7 @@ body {
     box-sizing: border-box;
   }
   .container {
-    @apply pt-20 m-2 md:mx-auto;
+    @apply mx-2 md:mx-auto;
   }
   a {
     @apply text-blue-600 hover:text-yellow-600;
@@ -30,9 +30,7 @@ body {
   ol {
     @apply list-decimal list-inside ml-4;
   }
-  nl {
-    @apply list-none;
-  }
+
   img {
     @apply py-2;
   }

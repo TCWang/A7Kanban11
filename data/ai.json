@@ -1,0 +1,290 @@
+﻿[
+        {
+            "no": "101",
+            "title": "ChatGPT",
+            "figure": "ai-101.png",
+            "link": "https://chat.openai.com/",
+            "category": "AI文本",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "102",
+            "title": "Notion AI",
+            "figure": "ai-102.png",
+            "link": "https://www.notion.so/product/ai",
+            "category": "AI文本",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "103",
+            "title": "Jasper AI",
+            "figure": "ai-103.png",
+            "link": "https://www.jasper.ai/",
+            "category": "AI文本",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "104",
+            "title": "Outpiay",
+            "figure": "ai-104.png",
+            "link": "https://outplayhq.com/",
+            "category": "AI文本",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "105",
+            "title": "Writesonic",
+            "figure": "ai-105.png",
+            "link": "https://writesonic.com/",
+            "category": "AI文本",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "106",
+            "title": "Cowriter",
+            "figure": "ai-106.png",
+            "link": "https://cowriter.org/",
+            "category": "AI文本",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "107",
+            "title": "Copy.ai",
+            "figure": "ai-107.png",
+            "link": "https://www.copy.ai/",
+            "category": "AI文本",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "108",
+            "title": "Character AI",
+            "figure": "ai-108.png",
+            "link": "https://beta.character.ai/",
+            "category": "AI文本",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "109",
+            "title": "Firefiles",
+            "figure": "ai-109.png",
+            "link": "https://fireflies.ai/",
+            "category": "AI文本",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "201",
+            "title": "PolyAI",
+            "figure": "ai-201.png",
+            "link": "https://poly.ai/",
+            "category": "AI音頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "202",
+            "title": "Papercup",
+            "figure": "ai-202.png",
+            "link": "https://www.papercup.com/",
+            "category": "AI音頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "203",
+            "title": "Mubert",
+            "figure": "ai-203.png",
+            "link": "https://mubert.com/render",
+            "category": "AI音頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "204",
+            "title": "LALA AI",
+            "figure": "ai-204.png",
+            "link": "https://www.lalal.ai/",
+            "category": "AI音頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "205",
+            "title": "Boomy",
+            "figure": "ai-205.png",
+            "link": "https://boomy.com/",
+            "category": "AI音頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "206",
+            "title": "Murf",
+            "figure": "ai-206.png",
+            "link": "https://murf.ai/",
+            "category": "AI音頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "207",
+            "title": "Endel",
+            "figure": "ai-207.png",
+            "link": "https://endel.io/",
+            "category": "AI音頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "208",
+            "title": "Soundraw",
+            "figure": "ai-208.png",
+            "link": "https://soundraw.io/",
+            "category": "AI音頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "209",
+            "title": "voice mode",
+            "figure": "ai-209.png",
+            "link": "https://www.voicemod.net/",
+            "category": "AI音頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "301",
+            "title": "Runaway",
+            "figure": "ai-301.png",
+            "link": "https://runwayml.com/",
+            "category": "AI 視頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "302",
+            "title": "Synthesia",
+            "figure": "ai-302.png",
+            "link": "https://www.synthesia.io/",
+            "category": "AI 視頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "303",
+            "title": "Cascadeur",
+            "figure": "ai-303.png",
+            "link": "https://cascadeur.com/",
+            "category": "AI 視頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "304",
+            "title": "Pollinations",
+            "figure": "ai-304.png",
+            "link": "https://pollinations.ai/",
+            "category": "AI 視頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "305",
+            "title": "ZUBTITL",
+            "figure": "ai-305.png",
+            "link": "https://zubtitle.com/",
+            "category": "AI 視頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "306",
+            "title": "Munch",
+            "figure": "ai-306.png",
+            "link": "https://www.getmunch.com/",
+            "category": "AI 視頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "307",
+            "title": "Fliki",
+            "figure": "ai-307.png",
+            "link": "https://fliki.ai/",
+            "category": "AI 視頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "308",
+            "title": "Peech",
+            "figure": "ai-308.png",
+            "link": "https://www.peech-ai.com/",
+            "category": "AI 視頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "309",
+            "title": "DreamFace",
+            "figure": "ai-309.png",
+            "link": "https://dreamfaceapp.com/",
+            "category": "AI 視頻",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "401",
+            "title": "Midjourney",
+            "figure": "ai-401.png",
+            "link": "https://www.midjourney.com/",
+            "category": "AI繪畫",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "402",
+            "title": "PhotorRoom",
+            "figure": "ai-402.png",
+            "link": "https://www.photoroom.com/",
+            "category": "AI繪畫",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "403",
+            "title": "盜夢師",
+            "figure": "ai-403.png",
+            "link": "https://www.ainav.cn/sites/336.html",
+            "category": "AI繪畫",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "404",
+            "title": "Disco Diffusion",
+            "figure": "ai-404.png",
+            "link": "https://library.phygital.plus/discodiffusion",
+            "category": "AI繪畫",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "405",
+            "title": "文心一格",
+            "figure": "ai-405.png",
+            "link": "https://yige.baidu.com/",
+            "category": "AI繪畫",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "406",
+            "title": "Stable Diffusion",
+            "figure": "ai-406.png",
+            "link": "https://stability.ai/stable-diffusion",
+            "category": "AI繪畫",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "407",
+            "title": "DALL E2",
+            "figure": "ai-407.png",
+            "link": "https://openai.com/dall-e-2",
+            "category": "AI繪畫",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "408",
+            "title": "Tiamat",
+            "figure": "ai-408.png",
+            "link": "https://www.tiamat.com/",
+            "category": "AI繪畫",
+            "tab": "人工智慧"
+        },
+        {
+            "no": "409",
+            "title": "Dream Studio",
+            "figure": "ai-409.png",
+            "link": "https://beta.dreamstudio.ai/generate",
+            "category": "AI繪畫",
+            "tab": "人工智慧"
+        }
+    ]
