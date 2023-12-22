@@ -1,1 +1,0 @@
-import{_ as t}from"./NavBar.31d2bed7.js";import{_ as n,c as r,b as a,X as c,o as _}from"./entry.b2f74caf.js";const s={};function l(e,f){const o=t;return _(),r("div",null,[a(o),c(e.$slots,"default")])}const p=n(s,[["render",l]]);export{p as default};
