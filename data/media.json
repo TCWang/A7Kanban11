@@ -1,0 +1,776 @@
+﻿[
+        {
+            "no": "101",
+            "title": "大學的脊梁",
+            "figure": "media-101.png",
+            "link": "file/XLK-245-大學的脊梁.pdf",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "102",
+            "title": "極簡簡歷",
+            "figure": "media-102.png",
+            "link": "https://www.polebrief.com/index",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "103",
+            "title": "書享家",
+            "figure": "media-103.png",
+            "link": "http://shuxiangjia.cn/",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "104",
+            "title": "中國哲學",
+            "figure": "media-104.png",
+            "link": "https://ctext.org/zh",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "105",
+            "title": "漢典",
+            "figure": "media-105.png",
+            "link": "https://www.zdic.net/",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "106",
+            "title": "SCI-HUB",
+            "figure": "media-106.png",
+            "link": "https://sci-hub.tw/",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "107",
+            "title": "愛思想",
+            "figure": "media-107.png",
+            "link": "http://www.aisixiang.com/",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "108",
+            "title": "紐約公共圖書",
+            "figure": "media-108.png",
+            "link": " https://reurl.cc/lV06jv",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "109",
+            "title": "Verso Books",
+            "figure": "media-109.png",
+            "link": " https://reurl.cc/qdmeAD",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "110",
+            "title": "Haymarket Books",
+            "figure": "media-110.png",
+            "link": "https://reurl.cc/E72dln",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "111",
+            "title": "論文數據庫",
+            "figure": "media-111.png",
+            "link": "https://reurl.cc/nzngG2",
+            "category": "文獻收藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "201",
+            "title": "ArtStation",
+            "figure": "media-201.png",
+            "link": "https://www.artstation.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "News"
+        },
+        {
+            "no": "202",
+            "title": "Behance",
+            "figure": "media-202.png",
+            "link": "https://www.behance.net/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "News"
+        },
+        {
+            "no": "203",
+            "title": "Deviantart",
+            "figure": "media-203.png",
+            "link": "https://www.deviantart.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "News"
+        },
+        {
+            "no": "204",
+            "title": "Dirbbble",
+            "figure": "media-204.png",
+            "link": "https://dribbble.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "News"
+        },
+        {
+            "no": "205",
+            "title": "CGSociety",
+            "figure": "media-205.png",
+            "link": "https://cgsociety.org/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "News"
+        },
+        {
+            "no": "206",
+            "title": "ZbrushCentral",
+            "figure": "media-206.png",
+            "link": "https://www.zbrushcentral.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "News"
+        },
+        {
+            "no": "207",
+            "title": "Pexels",
+            "figure": "media-207.png",
+            "link": "https://www.pexels.com/zh-cn/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "News"
+        },
+        {
+            "no": "208",
+            "title": "Pixabay",
+            "figure": "media-208.png",
+            "link": "https://pixabay.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "News"
+        },
+        {
+            "no": "209",
+            "title": "Unsplash",
+            "figure": "media-209.png",
+            "link": "https://unsplash.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "News"
+        },
+        {
+            "no": "210",
+            "title": "Pinterest",
+            "figure": "media-210.png",
+            "link": "https://www.pinterest.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "News"
+        },
+        {
+            "no": "211",
+            "title": "Kapwing 影音編輯",
+            "figure": "media-211.png",
+            "link": "https://www.kapwing.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "212",
+            "title": "考拉新媒體導航",
+            "figure": "media-212.png",
+            "link": "https://www.kaolamedia.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "213",
+            "title": "Vjshi 視頻素材",
+            "figure": "media-213.png",
+            "link": "https://www.vjshi.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "214",
+            "title": "ArtStation",
+            "figure": "media-214.png",
+            "link": "https://www.artstation.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "215",
+            "title": "Behance",
+            "figure": "media-215.png",
+            "link": "https://www.behance.net/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "216",
+            "title": "Deviantart",
+            "figure": "media-216.png",
+            "link": "https://www.deviantart.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "217",
+            "title": "Dirbbble",
+            "figure": "media-217.png",
+            "link": "https://dribbble.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "218",
+            "title": "CGSociety",
+            "figure": "media-218.png",
+            "link": "https://cgsociety.org/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "219",
+            "title": "ZbrushCentral",
+            "figure": "media-219.png",
+            "link": "https://www.zbrushcentral.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "220",
+            "title": "Pexels",
+            "figure": "media-220.png",
+            "link": "https://www.pexels.com/zh-cn/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "221",
+            "title": "Pixabay",
+            "figure": "media-221.png",
+            "link": "https://pixabay.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "222",
+            "title": "Unsplash",
+            "figure": "media-222.png",
+            "link": "https://unsplash.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "223",
+            "title": "Pinterest",
+            "figure": "media-223.png",
+            "link": "https://www.pinterest.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "224",
+            "title": "著色簿",
+            "figure": "media-224.png",
+            "link": "http://www.supercoloring.com/zh-hant",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "225",
+            "title": "Google Art & Culture",
+            "figure": "media-225.png",
+            "link": "https://artsandculture.google.com/",
+            "category": "藝術圖像",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "301",
+            "title": "300本世界名著有声书",
+            "figure": "media-301.png",
+            "link": "https://mp.weixin.qq.com/s/N5dBrdC_zvPEZYrxvCliaQ",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "302",
+            "title": "日治時代",
+            "figure": "media-302.png",
+            "link": "https://www.youtube.com/results?search_query=%E7%8F%8D%E8%B2%B4%E5%8F%A4%E6%97%A9%EF%BC%88%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%EF%BC%89%E5%8F%B0%E7%81%A3%E9%8C%84%E5%BD%B1",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "303",
+            "title": "365老友志",
+            "figure": "media-303.png",
+            "link": "https://mp.weixin.qq.com/s/XBrneSZv7J6Mzo0q0Qx7OA",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "304",
+            "title": "懷舊點唱機",
+            "figure": "media-304.png",
+            "link": "http://thenostalgiamachine.com",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "305",
+            "title": "跟着书本去旅行",
+            "figure": "media-305.png",
+            "link": "https://mp.weixin.qq.com/s/fS-9xUqU_VVTuk4ApFnshA",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "306",
+            "title": "康健",
+            "figure": "media-306.png",
+            "link": "https://www.commonhealth.com.tw/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "307",
+            "title": "眼底城市",
+            "figure": "media-307.png",
+            "link": "https://eyesonplace.net/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "308",
+            "title": "閱讀前哨戰",
+            "figure": "media-308.png",
+            "link": "https://readingoutpost.com/podcast/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "309",
+            "title": "PressPlay Academy, PPA",
+            "figure": "media-309.png",
+            "link": "https://www.pressplay.cc/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "310",
+            "title": "50+Fifty Plus",
+            "figure": "media-310.png",
+            "link": "https://www.fiftyplus.com.tw/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "311",
+            "title": "職場攻略",
+            "figure": "media-311.png",
+            "link": "http://www.mydesign-cases.com/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "312",
+            "title": "勵志正能量",
+            "figure": "media-312.png",
+            "link": "http://ananfree.com/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "313",
+            "title": "唐诗三百首微电影合集",
+            "figure": "media-313.png",
+            "link": "https://mp.weixin.qq.com/s/aOBtIf7LiZSv2705GhYBJg",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "314",
+            "title": "一万本有声书",
+            "figure": "media-314.png",
+            "link": "https://mp.weixin.qq.com/s/eS-iCMvTGITMq_y55HwXuQ",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "315",
+            "title": "Radio Garden",
+            "figure": "media-315.png",
+            "link": "http://radio.garden/visit/taipei/EJ081eH6",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "316",
+            "title": "劉校長開講",
+            "figure": "media-316.png",
+            "link": "https://www.chunglaungliu.com/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "317",
+            "title": "故宮典藏",
+            "figure": "media-317.png",
+            "link": "https://theme.npm.edu.tw/selection/index.aspx",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "318",
+            "title": "民歌40",
+            "figure": "media-318.png",
+            "link": "https://www.youtube.com/playlist?list=PLDgLLnSBXR_PQ5a11TuH3l4zrJ8g0PqrN&app=desktop",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "319",
+            "title": "野性臺灣",
+            "figure": "media-319.png",
+            "link": "https://www.youtube.com/watch?v=UiUet362iDI&feature=youtu.be",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "320",
+            "title": "美麗台灣新視界",
+            "figure": "media-320.png",
+            "link": "http://www.twbest1.com/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "321",
+            "title": "美麗中國",
+            "figure": "media-321.png",
+            "link": "https://mp.weixin.qq.com/s/XJ8RjmC3tOt87t9wj2krfQ",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "322",
+            "title": "熱狗遊戲",
+            "figure": "media-322.png",
+            "link": "http://www.regogame.com/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "323",
+            "title": "亞馬遜全球聽",
+            "figure": "media-323.png",
+            "link": "https://stories.audible.com/discovery",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "324",
+            "title": "網路導覽",
+            "figure": "media-324.png",
+            "link": "https://artsandculture.google.com/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "325",
+            "title": "NASA",
+            "figure": "media-325.png",
+            "link": "https://www.nasa.gov/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "326",
+            "title": "紀錄片500部",
+            "figure": "media-326.png",
+            "link": "https://mp.weixin.qq.com/s/d-7oy3gdhH8yN6vApjThuQ",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "327",
+            "title": "紀錄片",
+            "figure": "media-327.png",
+            "link": "https://reurl.cc/lV061d",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "328",
+            "title": "底特律交響樂",
+            "figure": "media-328.png",
+            "link": "https://livefromorchestrahall.vhx.tv/browse",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "329",
+            "title": "Collectif Jeune Cinema",
+            "figure": "media-329.png",
+            "link": "https://reurl.cc/X6ennE",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "330",
+            "title": "台灣點歌王",
+            "figure": "media-330.png",
+            "link": "https://song.corp.com.tw/company.aspx?company=%E9%9F%B3%E5%9C%93",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "331",
+            "title": "2020東京奧運",
+            "figure": "media-331.png",
+            "link": "https://www.mirrormedia.mg/story/amp/20210721edi038/",
+            "category": "影音珍藏",
+            "tab": "影音媒體",
+            "file": "Video"
+        },
+        {
+            "no": "401",
+            "title": "泥巴影院",
+            "figure": "media-401.png",
+            "link": "https://www.nbys.tv/index.html",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "402",
+            "title": "影貓電影",
+            "figure": "media-402.png",
+            "link": "https://www.mvcat.com/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "403",
+            "title": "劇迷 Gimy",
+            "figure": "media-403.png",
+            "link": "https://gimy.app/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "404",
+            "title": "獨播庫",
+            "figure": "media-404.png",
+            "link": "https://www.duboku.tv/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "405",
+            "title": "大劇獨播",
+            "figure": "media-405.png",
+            "link": "https://bigdramas.com/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "406",
+            "title": "WeTV 付費",
+            "figure": "media-406.png",
+            "link": "https://wetv.vip/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "407",
+            "title": "DramasQ",
+            "figure": "media-407.png",
+            "link": "https://dramasq.com/cn/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "408",
+            "title": "愛奇藝 付費",
+            "figure": "media-408.png",
+            "link": "https://www.iq.com/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "409",
+            "title": "芒果TV 付費",
+            "figure": "media-409.png",
+            "link": "https://w.mgtv.com/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "410",
+            "title": "影视之家",
+            "figure": "media-410.png",
+            "link": "https://www.743718.com/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "411",
+            "title": "騰訊視頻 付費",
+            "figure": "media-411.png",
+            "link": "https://v.qq.com/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "412",
+            "title": "中國人線上看",
+            "figure": "media-412.png",
+            "link": "https://chinaq.biz/cn/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "413",
+            "title": "美國電視頻道",
+            "figure": "media-413.png",
+            "link": "https://ustvgo.tv/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "414",
+            "title": "上映電影查詢",
+            "figure": "media-414.png",
+            "link": "https://movies.yahoo.com.tw/showtimes",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "415",
+            "title": "連續劇熱播表",
+            "figure": "media-415.png",
+            "link": "https://kan.sogou.com/top/dianshiju/",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "416",
+            "title": "附近景點快搜",
+            "figure": "media-416.png",
+            "link": "https://www.taiwan.net.tw/m1.aspx?sNo=0000064",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "417",
+            "title": "主題旅遊資訊",
+            "figure": "media-417.png",
+            "link": "https://www.taiwan.net.tw/m1.aspx?sNo=0000108",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "418",
+            "title": "藝文活動資訊",
+            "figure": "media-418.png",
+            "link": "https://event.moc.gov.tw/mp.asp?mp=1",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        },
+        {
+            "no": "419",
+            "title": "地區節慶活動",
+            "figure": "media-419.png",
+            "link": "https://www.taiwan.net.tw/m1.aspx?sNo=0000104",
+            "category": "娛樂資訊",
+            "tab": "影音媒體",
+            "file": "WebInformation"
+        }
+    ]
