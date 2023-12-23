@@ -1,5 +1,5 @@
 <template>
-  <div v-if="ai">
+  <div v-if="media">
     <MediaDetailHero :media="media" />
 
     <MediaBack />
