@@ -1,5 +1,13 @@
 ﻿[
         {
+            "no": "501",
+            "title": "Best Inventation of 2023",
+            "figure": "ai-501.png",
+            "link": "https://www.toutiao.com/article/7319002340593025573/?app=news_article&timestamp=1704227525&use_new_style=1&req_id=202401030432042F2607EE65D31457656F&group_id=7319002340593025573&source=m_redirect",
+            "category": "AI應用",
+            "tab": "人工智慧"
+        },
+        {
             "no": "101",
             "title": "ChatGPT",
             "figure": "ai-101.png",
