@@ -1,7 +1,6 @@
 <template>
-  <div>
-    <div class="container">
-      <slot />
-    </div>
+  <div class="container mx-auto">
+    <NavBar />
+    <slot />
   </div>
 </template>

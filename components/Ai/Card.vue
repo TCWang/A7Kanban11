@@ -1,21 +1,21 @@
 <template>
   <div
-    class="flex-row flex-wrap shadow border-hidden mb-1 cursor-pointer w-[160px] md:w-[200px] h-[180px] md:h-[200px]"
+    class="flex-row flex-wrap shadow border-hidden mb-1 cursor-pointer w-1/2 md:w-1/4 lg:1/6 h-[200px] md:h-[220px]"
     @click="navigateTo(`/ai/${ai.title}`)"
   >
     <div class="flex flex-col h-full bg-zinc-100 rounded-2xl shadow-md">
       <NuxtImg
         :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/ai/${ai.figure}`"
         alt=""
-        class="w-[80px] md:w-[120px] h-[100px] md:h-[120px] rounded-xl transform hover:scale-110 duration-200"
+        class="ml-4 w-[80px] md:w-[120px] h-[100px] md:h-[120px] rounded-xl transform hover:scale-110 duration-200"
       />
 
       <div class="p-4 flex flex-col">
         <div>
           <p class="mt-auto">類別: {{ ai.category }}</p>
-          <h3 class="">
+          <p class="bg-blue-200 hover:bolder-red px-3 py-2 rounded text-lg">
             <a :href="ai.link"> {{ ai.title }} </a>
-          </h3>
+          </p>
         </div>
       </div>
     </div>

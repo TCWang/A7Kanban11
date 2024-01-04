@@ -41,7 +41,7 @@
           <li>
             <a
               href="/websites"
-              class="cta bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white"
+              class="cta bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white hover:text-white"
               >社區網站</a
             >
           </li>
