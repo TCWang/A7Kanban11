@@ -1,5 +1,41 @@
 ﻿[
         {
+            "no": "901",
+            "title": "痞客邦 Pixnet",
+            "figure": "news-901.png",
+            "link": "https://www.pixnet.net/",
+            "category": "部落格",
+            "tab": "新聞雜誌",
+            "file": "News"
+        },
+        {
+            "no": "902",
+            "title": "方格子 Vocus",
+            "figure": "news-902.png",
+            "link": "https://vocus.cc/",
+            "category": "部落格",
+            "tab": "新聞雜誌",
+            "file": "News"
+        },
+        {
+            "no": "903",
+            "title": "Medium",
+            "figure": "news-903.png",
+            "link": "https://medium.com/",
+            "category": "部落格",
+            "tab": "新聞雜誌",
+            "file": "News"
+        },
+        {
+            "no": "904",
+            "title": "Substack",
+            "figure": "news-904.png",
+            "link": "https://substack.com/",
+            "category": "部落格",
+            "tab": "新聞雜誌",
+            "file": "News"
+        },
+        {
             "no": "101",
             "title": "桃園人ㄟ新聞網",
             "figure": "news-101.png",
