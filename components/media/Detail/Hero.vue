@@ -1,7 +1,7 @@
 <template>
   <div class="container flex flex-col md:flex-row">
     <NuxtImg
-      :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/media/${media.figure}`"
+      :src="`/images/media/${media.figure}`"
       class="w-[150px] h-[150px] md:w-[200px] md:h-[200px] px-1 md:px-4"
       alt=""
     />
